@@ -65,7 +65,7 @@ header('Content-Type: text/html; charset=utf-8');
         <p>Oops! Parece que você se perdeu...</p>
         <img src="./img404/404.gif" alt="Imagem bonita">
         <p>A página que você está procurando não existe.</p>
-        <a href="https://sirespdigital-hml.regulacaomedica.com.br">Voltar para a Página Inicial</a>
+        <a href="https://www.meusite.com.br">Voltar para a Página Inicial</a>
     </div>
 </body>
 </html>
